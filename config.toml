@@ -1,0 +1,4 @@
+baseURL = 'http://hammond.math.wichita.edu'
+languageCode = 'en-us'
+title = 'Basic test site'
+theme = "shocker"
